@@ -623,24 +623,9 @@
   min-height: 87px;
 }
 
-.u-section-8 .u-btn-1 {
-  border-style: none;
-  font-weight: 700;
-  font-size: 1.25rem;
-  letter-spacing: 0px;
-  text-transform: uppercase;
-  margin: 37px auto 16px;
-  padding: 0;
-}
-
 @media (max-width: 767px) {
   .u-section-8 .u-sheet-1 {
     min-height: 82px;
-  }
-
-  .u-section-8 .u-btn-1 {
-    margin-top: 24px;
-    margin-bottom: 24px;
   }
 }.u-section-9 .u-sheet-1 {
   min-height: 312px;
